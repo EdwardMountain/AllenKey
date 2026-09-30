@@ -1,0 +1,41 @@
+ALLENKEY SOFTWARE LICENSE
+Freeware License
+
+Copyright (c) 2026 Edoardo Montagnoli (DoDo7).
+All rights reserved.
+
+1. Free to use
+
+AllenKey is free. You may use it, at no cost, for any personal or professional
+purpose, including paid work. You may save a copy on your own devices to use
+it offline.
+
+2. Donations
+
+Donations are welcome but never required. A donation does not grant ownership
+of the software or any rights beyond those in this license.
+
+Donation link:
+https://paypal.me/edoardomontagnoli
+
+3. What is not allowed without written permission
+
+- selling, renting or sublicensing AllenKey;
+- publishing, hosting or redistributing it, or a modified version of it, as
+  your own product or service;
+- removing or altering the copyright notice, the author attribution or the
+  donation link.
+
+4. Trademarks
+
+AllenKey is an independent tool. It is not affiliated with, endorsed by, or
+sponsored by Allen & Heath. Allen & Heath and all product names are
+trademarks of their respective owners.
+
+5. No warranty
+
+AllenKey is provided "as is", without warranty of any kind. Always check the
+MIDI strings on your system before a show. The author is not liable for any
+damage or loss arising from the use of, or inability to use, this software.
+
+End of license.
